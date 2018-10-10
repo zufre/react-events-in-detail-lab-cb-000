@@ -14,4 +14,3 @@ export default class DelayedButton extends React.Component {
       <button onClick={this.handleClick}>Delay</button>)
   }
 }
-
